@@ -13,6 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I have heard about R and Github several times over the last few years, and especially since coming to Bren. I am taking this class to learn about R and Github to assess the applicability to the research I currently do in the area of water quality and fecal indicator bacteria. In the context of molecular source tracking (a direction my research may possibly go), many papers I've read mention an R package called SourceTracker. I rely heavily on excel for my data needs, but I am aware of some of excel's limitations and think R may be better suited for some of my future applications.
 
-## Trace's data background
+## Trace's data science background
 
 I have no background in data science, but I have worked with data through my previous job at the Water Resources Laboratory. Most of the data I handled was within a laboratory information management system (LIMS). Since laboratory analyses often take a long time per data point, I most often worked with very small data sets (\<500 entries). I became decent at querying data in the context of our LIMS, which used a query function very similar to ArcGIS. I have zero experience with R and GitHub, but a long time ago I had slightly (very slightly) dabbled in the programming languages html, visual basic, and java.
