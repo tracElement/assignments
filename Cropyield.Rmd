@@ -1,0 +1,20 @@
+---
+title: "Crop Yield"
+author: "Trace"
+date: "2023-02-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+n <- rnorm(10, mean = 5, sd = 0.5)
+
+```{r}
+f = rnorm(mean=5, sd=0.5, n=10)
+
+results = data.frame(f=fs, yield=NA)
+
+head(results)
+
